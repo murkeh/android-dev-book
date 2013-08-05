@@ -1,0 +1,1 @@
+"F:\Program Files\Prince\Engine\bin\prince.exe" -s android-dev-a4-simple.css --no-author-style -l android-dev-urls.txt -v -o android-dev-a4-simple.pdf"

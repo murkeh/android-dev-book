@@ -1,0 +1,19 @@
+@page {
+  size: a4;
+  margin: 1cm;
+}
+ 
+ 
+#searchResults, #nav-x, #side-nav, #header, #page-footer, #footer {
+  display:none;
+}
+ 
+.content-footer {
+  display:none;
+}
+ 
+html, body {
+  height: auto;
+  prince-linebreak-magic: auto;
+  hyphens: auto;
+}
